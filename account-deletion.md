@@ -25,4 +25,5 @@ UIDの確認方法：アプリを開く → 設定 →「アカウント情報�
 ## 削除依頼の方法
 
 ### メールで依頼
-[メールを送る](mailto:memoria.ai.contact@gmail.com?subject=MemoriaAI%20%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%89%8A%E9%99%A4%E4%BE%9D%E9%A0%BC&body=UID%3A%0A%E5%89%8A%E9%99%A4%E5%AF%BE%E8%B1%A1%3A%0A%E9%80%A3%E7%B5%A1%E5%85%88%28%E4%BB%BB%E6%84%8F%29%3A)
+以下のメールアドレス宛に、UIDと削除希望の旨を送信してください。  
+memoria.ai.contact@gmail.com
